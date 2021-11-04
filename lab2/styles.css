@@ -1,4 +1,8 @@
 
+h1{
+	text-align:center;
+	
+}
 @media (min-width: 993px) {
 
 #box1{
@@ -32,7 +36,35 @@ float: left;
 margin:2% 2% 2% 1%;
 }
 
-.cap{
+#cap1{
+width:80px;
+height:30px;
+background-color:yellow;
+border:2px solid;
+padding:5px;
+text-align:center;
+font-weight:bold;
+position:absolute;
+right:1px;
+top:1px;
+margin:0px;
+}
+
+#cap2{
+width:80px;
+height:30px;
+background-color:orange;
+border:2px solid;
+padding:5px;
+text-align:center;
+font-weight:bold;
+position:absolute;
+right:1px;
+top:1px;
+margin:0px;
+}
+
+#cap3{
 width:80px;
 height:30px;
 background-color:OrangeRed;
@@ -83,7 +115,35 @@ margin:1% 2% 2% 2%;
 clear:both;
 }
 
-.cap{
+#cap1{
+width:80px;
+height:30px;
+background-color:yellow;
+border:2px solid;
+padding:5px;
+text-align:center;
+font-weight:bold;
+position:absolute;
+right:1px;
+top:1px;
+margin:0px;
+}
+
+#cap2{
+width:80px;
+height:30px;
+background-color:orange;
+border:2px solid;
+padding:5px;
+text-align:center;
+font-weight:bold;
+position:absolute;
+right:1px;
+top:1px;
+margin:0px;
+}
+
+#cap3{
 width:80px;
 height:30px;
 background-color:OrangeRed;
@@ -137,7 +197,35 @@ margin:5% 5% 2% 5%;
 clear:left;
 }
 
-.cap{
+#cap1{
+width:80px;
+height:30px;
+background-color:yellow;
+border:2px solid;
+padding:5px;
+text-align:center;
+font-weight:bold;
+position:absolute;
+right:1px;
+top:1px;
+margin:0px;
+}
+
+#cap2{
+width:80px;
+height:30px;
+background-color:orange;
+border:2px solid;
+padding:5px;
+text-align:center;
+font-weight:bold;
+position:absolute;
+right:1px;
+top:1px;
+margin:0px;
+}
+
+#cap3{
 width:80px;
 height:30px;
 background-color:OrangeRed;
